@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 568163cd8afdf1d4689c6e89b4777efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6195596516856370298
+    second: Citizen_Greetings_Spritesheet_0
+  - first:
+      213: -1754364578754294264
+    second: Citizen_Greetings_Spritesheet_1
+  - first:
+      213: 2675132062898903636
+    second: Citizen_Greetings_Spritesheet_2
+  - first:
+      213: -6239224129816304473
+    second: Citizen_Greetings_Spritesheet_3
+  - first:
+      213: -7552328922362428417
+    second: Citizen_Greetings_Spritesheet_4
+  - first:
+      213: -8710188803423761758
+    second: Citizen_Greetings_Spritesheet_5
+  - first:
+      213: -8107455777270301203
+    second: Citizen_Greetings_Spritesheet_6
+  - first:
+      213: 1300209865173074798
+    second: Citizen_Greetings_Spritesheet_7
+  - first:
+      213: 3523968034741792891
+    second: Citizen_Greetings_Spritesheet_8
+  - first:
+      213: 3847462643140964743
+    second: Citizen_Greetings_Spritesheet_9
+  - first:
+      213: -2113746036161440378
+    second: Citizen_Greetings_Spritesheet_10
+  - first:
+      213: -3299947182599267963
+    second: Citizen_Greetings_Spritesheet_11
+  - first:
+      213: 8468311523900812682
+    second: Citizen_Greetings_Spritesheet_12
+  - first:
+      213: 7523037492263612890
+    second: Citizen_Greetings_Spritesheet_13
+  - first:
+      213: -2526016307803123189
+    second: Citizen_Greetings_Spritesheet_14
+  - first:
+      213: 6082624118032637727
+    second: Citizen_Greetings_Spritesheet_15
+  - first:
+      213: 6356660049765824504
+    second: Citizen_Greetings_Spritesheet_16
+  - first:
+      213: 5013313221983489697
+    second: Citizen_Greetings_Spritesheet_17
+  - first:
+      213: -6771928975999014310
+    second: Citizen_Greetings_Spritesheet_18
+  - first:
+      213: 8754375907039868480
+    second: Citizen_Greetings_Spritesheet_19
+  - first:
+      213: 4851383095394818440
+    second: Citizen_Greetings_Spritesheet_20
+  - first:
+      213: -800067512665464610
+    second: Citizen_Greetings_Spritesheet_21
+  - first:
+      213: -1370903520655247850
+    second: Citizen_Greetings_Spritesheet_22
+  - first:
+      213: -6115408630727363117
+    second: Citizen_Greetings_Spritesheet_23
+  - first:
+      213: -3262006674700281332
+    second: Citizen_Greetings_Spritesheet_24
+  - first:
+      213: -3397661555135060799
+    second: Citizen_Greetings_Spritesheet_25
+  - first:
+      213: 2876077378872527764
+    second: Citizen_Greetings_Spritesheet_26
+  - first:
+      213: 3476468579282319826
+    second: Citizen_Greetings_Spritesheet_27
+  - first:
+      213: -4369764199977346630
+    second: Citizen_Greetings_Spritesheet_28
+  - first:
+      213: 929786320438489466
+    second: Citizen_Greetings_Spritesheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1384
+        width: 192
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964ec32aab755564994568e960966fc9
+      internalID: -6195596516856370298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1384
+        width: 193
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ed923d89728d4d864c643f38d459b
+      internalID: -1754364578754294264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1384
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8d9d3cda2ea04083f0108ed2fbbaa
+      internalID: 2675132062898903636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1384
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507966003d449b941b0a38c39311c978
+      internalID: -6239224129816304473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1384
+        width: 193
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aea16d95c0baa4fab13edab3380e7f
+      internalID: -7552328922362428417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1384
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c1ba8d8a4c92478c7efb1d7f1902f
+      internalID: -8710188803423761758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1044
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f79c6b75ee7c84cbcd4dbfd7d5105d
+      internalID: -8107455777270301203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1044
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf723d7294f69864c8baeef68d95013c
+      internalID: 1300209865173074798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1044
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d510661909a243b098d3de2432719
+      internalID: 3523968034741792891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1044
+        width: 192
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f5e86b4e57c34ea1a75a388f4bbe4
+      internalID: 3847462643140964743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1044
+        width: 193
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c62a2dc08933042ba7f8820ce662f4
+      internalID: -2113746036161440378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1044
+        width: 195
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1dadab16ad9544ba6e23c66bb3c43
+      internalID: -3299947182599267963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 704
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2af78ff12b8b4b43996da95dac4690f
+      internalID: 8468311523900812682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 704
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ce9c677a32e14ab4a87e3ec723d9a
+      internalID: 7523037492263612890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 704
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e53af45032a6fe43a1a691c7dbc6fd7
+      internalID: -2526016307803123189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 704
+        width: 198
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29332753b1f39044f90075b6234f9e07
+      internalID: 6082624118032637727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 704
+        width: 199
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23650aa2765c84cbae7f3551bd3091
+      internalID: 6356660049765824504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 704
+        width: 198
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdca2fc28a8fe24e8f35637cc972bb6
+      internalID: 5013313221983489697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 364
+        width: 198
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd7fe29d5391e9469818cb91b5c0ff0
+      internalID: -6771928975999014310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 364
+        width: 196
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793ea6ee4c6afc43a85976f580d8b9d
+      internalID: 8754375907039868480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 364
+        width: 194
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b1b9707e3834479c1bd6de26254eb
+      internalID: 4851383095394818440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 364
+        width: 193
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92f1e84593ae04bb56340d22c5095e
+      internalID: -800067512665464610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 371
+        width: 195
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe93eb78b83d5c499a5ef16354a9015
+      internalID: -1370903520655247850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 371
+        width: 196
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8ba67e3f662284eba3bda004c704b6
+      internalID: -6115408630727363117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 24
+        width: 198
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c6ef91a26c65c42a6410fedb40376c
+      internalID: -3262006674700281332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 24
+        width: 197
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648317953f6b1de42a26051202ca1938
+      internalID: -3397661555135060799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 24
+        width: 193
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72977e814225a5440bad33aa2e93e689
+      internalID: 2876077378872527764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 24
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379576a61d5f35428c03cdc9c3e21e8
+      internalID: 3476468579282319826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 24
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6767380fe984584469fd93c83b7fff88
+      internalID: -4369764199977346630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Greetings_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 22
+        width: 192
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e60a5bc75f0d4f807178a51b367a1
+      internalID: 929786320438489466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f251ea5e2511ae348ade470718f86d45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

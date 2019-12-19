@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: dcb5c9c53b50b43468f27631beb7bf5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5787376055123678632
+    second: Citizen_Idle_Spritesheet_0
+  - first:
+      213: -5649493883526732903
+    second: Citizen_Idle_Spritesheet_1
+  - first:
+      213: 355514368270507406
+    second: Citizen_Idle_Spritesheet_2
+  - first:
+      213: -441296067355407389
+    second: Citizen_Idle_Spritesheet_3
+  - first:
+      213: 1149802392842801371
+    second: Citizen_Idle_Spritesheet_4
+  - first:
+      213: 8442134126079915788
+    second: Citizen_Idle_Spritesheet_5
+  - first:
+      213: 6652965093457343478
+    second: Citizen_Idle_Spritesheet_6
+  - first:
+      213: -242502592205743188
+    second: Citizen_Idle_Spritesheet_7
+  - first:
+      213: 3249049063866230445
+    second: Citizen_Idle_Spritesheet_8
+  - first:
+      213: 4272232008957857557
+    second: Citizen_Idle_Spritesheet_9
+  - first:
+      213: 3976546056106910362
+    second: Citizen_Idle_Spritesheet_10
+  - first:
+      213: -3885537841883071219
+    second: Citizen_Idle_Spritesheet_11
+  - first:
+      213: 5527529808201843290
+    second: Citizen_Idle_Spritesheet_12
+  - first:
+      213: 4720651642452271826
+    second: Citizen_Idle_Spritesheet_13
+  - first:
+      213: -8337400141610008178
+    second: Citizen_Idle_Spritesheet_14
+  - first:
+      213: 6254717815928345810
+    second: Citizen_Idle_Spritesheet_15
+  - first:
+      213: -656824048890367693
+    second: Citizen_Idle_Spritesheet_16
+  - first:
+      213: -8748715761504637645
+    second: Citizen_Idle_Spritesheet_17
+  - first:
+      213: -7216009679417577868
+    second: Citizen_Idle_Spritesheet_18
+  - first:
+      213: -2988764756079903780
+    second: Citizen_Idle_Spritesheet_19
+  - first:
+      213: 4894759671806168872
+    second: Citizen_Idle_Spritesheet_20
+  - first:
+      213: 5513671691618933281
+    second: Citizen_Idle_Spritesheet_21
+  - first:
+      213: 2546374074606245427
+    second: Citizen_Idle_Spritesheet_22
+  - first:
+      213: 3238735029849790561
+    second: Citizen_Idle_Spritesheet_23
+  - first:
+      213: 5721157562870733818
+    second: Citizen_Idle_Spritesheet_24
+  - first:
+      213: 2429388274171114122
+    second: Citizen_Idle_Spritesheet_25
+  - first:
+      213: 1076238011040740425
+    second: Citizen_Idle_Spritesheet_26
+  - first:
+      213: -1526137881857414570
+    second: Citizen_Idle_Spritesheet_27
+  - first:
+      213: -2290794426212410734
+    second: Citizen_Idle_Spritesheet_28
+  - first:
+      213: 6739235825033792793
+    second: Citizen_Idle_Spritesheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1382
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dcd9281765ee040b1df6cf8608d263
+      internalID: 5787376055123678632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1382
+        width: 196
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7eedee800aa164aab1cf2dae7f5d1f
+      internalID: -5649493883526732903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1382
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718dad93ac88bb4099db1ec4fe42686
+      internalID: 355514368270507406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1382
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd66c4b31eb84a4b8687a2d15b82d11
+      internalID: -441296067355407389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1382
+        width: 196
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af366aad445e146868a8c03b4bc307
+      internalID: 1149802392842801371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1382
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96cc2e4d495514bbea520e1c952405
+      internalID: 8442134126079915788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1042
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74022a8992e6e0b46bafbc926f5fe6c2
+      internalID: 6652965093457343478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1042
+        width: 196
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ec3b276f88351468c5d53eb332fb78
+      internalID: -242502592205743188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1042
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728eaf09cd96e77458a3dd087409689b
+      internalID: 3249049063866230445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1042
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640553f64bbd4534381e501c2fa22eec
+      internalID: 4272232008957857557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1042
+        width: 196
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18cf4ccb8f43549b3ef0cb87d1b011
+      internalID: 3976546056106910362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1042
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04ddfa8f053384c94875943f03b273
+      internalID: -3885537841883071219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 702
+        width: 197
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427fa166977be7e409cf97ecdeb2a76a
+      internalID: 5527529808201843290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 702
+        width: 196
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86152c61ae77a45bed74ccbba77e9d
+      internalID: 4720651642452271826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 702
+        width: 196
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d9ab0f7e8e4345ad0c5966eb77574
+      internalID: -8337400141610008178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 702
+        width: 197
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdde5d4c3492c641ac61de29704e86e
+      internalID: 6254717815928345810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 702
+        width: 196
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb313df81e88354449349eea6d8a3c4f
+      internalID: -656824048890367693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 702
+        width: 197
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4cc1c1f37566843ac517e1bfccece7
+      internalID: -8748715761504637645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 362
+        width: 197
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77bc62dcf571248ac9012991e372a6
+      internalID: -7216009679417577868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 362
+        width: 196
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f29a1dd7e8d8ee4bbebc9887b4aad96
+      internalID: -2988764756079903780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 362
+        width: 197
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c33b76997bdb4fb4d150583f83c12
+      internalID: 4894759671806168872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 362
+        width: 197
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123bcf5cf0042449be949431de63845
+      internalID: 5513671691618933281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 362
+        width: 196
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08979440f277c4340ad986481174afdb
+      internalID: 2546374074606245427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 362
+        width: 197
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726fa1528dfad643a0edf91f2276253
+      internalID: 3238735029849790561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 22
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415c75c1ba0fd84f8cd24972bfe70a8
+      internalID: 5721157562870733818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 22
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ccb3cf1c36f543bd2fe99927b9df1
+      internalID: 2429388274171114122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 22
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5cc366517b0444b5edb515dcee90f
+      internalID: 1076238011040740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 22
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0006c64c9b4e4882915d58b224cc4
+      internalID: -1526137881857414570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 22
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1129309b412eefb4f8c92317aacfa04e
+      internalID: -2290794426212410734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 22
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feb3a9e61401474299c6a685627dc25
+      internalID: 6739235825033792793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 60b349652503062419427e0bee134fc4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

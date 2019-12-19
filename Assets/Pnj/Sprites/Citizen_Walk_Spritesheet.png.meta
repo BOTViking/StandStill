@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 0d09786c83eed71409f235d32ce2c6e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2095470773047502677
+    second: Citizen_Walk_Spritesheet_0
+  - first:
+      213: -6341007694854561146
+    second: Citizen_Walk_Spritesheet_1
+  - first:
+      213: -5036163329510835191
+    second: Citizen_Walk_Spritesheet_2
+  - first:
+      213: -7509802673230324618
+    second: Citizen_Walk_Spritesheet_3
+  - first:
+      213: -9156879285313748165
+    second: Citizen_Walk_Spritesheet_4
+  - first:
+      213: 6835901150062708881
+    second: Citizen_Walk_Spritesheet_5
+  - first:
+      213: 3861396147207930260
+    second: Citizen_Walk_Spritesheet_6
+  - first:
+      213: 6255585436299160892
+    second: Citizen_Walk_Spritesheet_7
+  - first:
+      213: 3710874112647675979
+    second: Citizen_Walk_Spritesheet_8
+  - first:
+      213: 6874152086658458045
+    second: Citizen_Walk_Spritesheet_9
+  - first:
+      213: 2048305751510606725
+    second: Citizen_Walk_Spritesheet_10
+  - first:
+      213: 4218436187490835666
+    second: Citizen_Walk_Spritesheet_11
+  - first:
+      213: 1890629713322346194
+    second: Citizen_Walk_Spritesheet_12
+  - first:
+      213: -9150800781281090896
+    second: Citizen_Walk_Spritesheet_13
+  - first:
+      213: 6167167541246259446
+    second: Citizen_Walk_Spritesheet_14
+  - first:
+      213: -7616841244814368194
+    second: Citizen_Walk_Spritesheet_15
+  - first:
+      213: 6052668501812627087
+    second: Citizen_Walk_Spritesheet_16
+  - first:
+      213: 458427120971814644
+    second: Citizen_Walk_Spritesheet_17
+  - first:
+      213: -2049083512534351859
+    second: Citizen_Walk_Spritesheet_18
+  - first:
+      213: 9062275762146591425
+    second: Citizen_Walk_Spritesheet_19
+  - first:
+      213: -2362909332360463187
+    second: Citizen_Walk_Spritesheet_20
+  - first:
+      213: -1521346550892106008
+    second: Citizen_Walk_Spritesheet_21
+  - first:
+      213: -8346239630275224946
+    second: Citizen_Walk_Spritesheet_22
+  - first:
+      213: -7289280239921167008
+    second: Citizen_Walk_Spritesheet_23
+  - first:
+      213: -3302604849059334494
+    second: Citizen_Walk_Spritesheet_24
+  - first:
+      213: -1925524194808968657
+    second: Citizen_Walk_Spritesheet_25
+  - first:
+      213: 1340055825315211900
+    second: Citizen_Walk_Spritesheet_26
+  - first:
+      213: -6439818147928348035
+    second: Citizen_Walk_Spritesheet_27
+  - first:
+      213: -5317127746236578140
+    second: Citizen_Walk_Spritesheet_28
+  - first:
+      213: 5019663177171950470
+    second: Citizen_Walk_Spritesheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1382
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9504c537415142963d12870a3b121
+      internalID: 2095470773047502677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1381
+        width: 185
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e87e280198ae194e9130e2f675a5aa9
+      internalID: -6341007694854561146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1379
+        width: 185
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5b928376d81ae479b76b45481f8d64
+      internalID: -5036163329510835191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1378
+        width: 185
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841f91274562a34ea58b11930cbc3bf
+      internalID: -7509802673230324618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1377
+        width: 185
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f9602e1688b545a1aa7d8b203ed46
+      internalID: -9156879285313748165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1375
+        width: 185
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26183f93579648e42b0eb9114b9377d9
+      internalID: 6835901150062708881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1034
+        width: 186
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25495f2c00b7e8142a9b2ffef9406d6d
+      internalID: 3861396147207930260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1033
+        width: 186
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1883780ca918d414ab9aa05c624a5334
+      internalID: 6255585436299160892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1033
+        width: 186
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c255572ce04a5d4e9ea5fdab3d77994
+      internalID: 3710874112647675979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1034
+        width: 186
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d375fc1a314048b5bfa33438b0030
+      internalID: 6874152086658458045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1035
+        width: 185
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa011b2a3467c4692a12c09ea4289b
+      internalID: 2048305751510606725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1036
+        width: 185
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e6fd0a2be5fd4bbfffd3804d5e9d0
+      internalID: 4218436187490835666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 698
+        width: 185
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1db7a2a47e0f94a9c383104d50aa1f
+      internalID: 1890629713322346194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 699
+        width: 184
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58622784d75e7154597fb8c521a5b1c2
+      internalID: -9150800781281090896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 700
+        width: 184
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84b56faf8aca84895b3e9fb25a8843
+      internalID: 6167167541246259446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 702
+        width: 185
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a65d89dcc5c88458008bec6777d5bf
+      internalID: -7616841244814368194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 701
+        width: 184
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e818888da375f49a202d642246ae6a
+      internalID: 6052668501812627087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 699
+        width: 185
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c273c9a2b0438743b4954ea784ad6ce
+      internalID: 458427120971814644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 358
+        width: 184
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016e8a83ddd1b904b8e0fd21b1aee86d
+      internalID: -2049083512534351859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 356
+        width: 185
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab72b5f4662d047ae06347324aee0c
+      internalID: 9062275762146591425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 355
+        width: 186
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb41d6ffe5b484e48bc6ad2e3bbee91d
+      internalID: -2362909332360463187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 354
+        width: 185
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f10a3b368cca4895dced11f838f3f
+      internalID: -1521346550892106008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 353
+        width: 185
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ebf53259ebb2b42bc47259177803b0
+      internalID: -8346239630275224946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 352
+        width: 186
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ec55da80c43d40951f5815f187781
+      internalID: -7289280239921167008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 185
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4d5db114da1541b9a2bbd9e56d3ac
+      internalID: -3302604849059334494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 185
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5198b05c91c88f458ff2be8ebaf8ded
+      internalID: -1925524194808968657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 15
+        width: 186
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a2723cafbb0a448c2094eff086233
+      internalID: 1340055825315211900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 17
+        width: 185
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea0dc380716ea40811dde4c3cd96df
+      internalID: -6439818147928348035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 19
+        width: 185
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1299260c30ac4ea74fb2e60d3fb16
+      internalID: -5317127746236578140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Walk_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 20
+        width: 185
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da015a402ce8ebe4096d3f8ca9a86acd
+      internalID: 5019663177171950470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 046f83b55bf33da40ba1d789ad19ed34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
